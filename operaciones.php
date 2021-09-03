@@ -19,6 +19,6 @@ link
 		<?php echo "<p>La suma de $n1 + $n2 = $suma</p>"; ?>
 		<?php echo "<p>El producto entre $n1 * $n2 = $multi</p>"; ?>
 		<?php echo "<p>La resta de $n1 - $n2 = $resta</p>"; ?>
-		<?php echo "<p>La division de $n1 / $n2 = $divi</p>"; ?>
+		<?php echo "<p>La division entre $n1 / $n2 = $divi</p>"; ?>
 </body>
 </html>
